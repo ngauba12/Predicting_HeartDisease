@@ -1,0 +1,7 @@
+What is this project about..
+
+1. Picked up a dataset from kaggle
+2. Applied RandomForest Algorithm to predict value
+3. Accuracy, Confusion matrix and ROC plot used to calculating the efficiency of the model.
+
+This is my first project. Hope you like it!
